@@ -39,7 +39,7 @@ This project applies **Natural Language Processing (NLP)** and **Machine Learnin
 Clone the repository and install requirements:
 
 ```bash
-git clone https://github.com/yourusername/imdb-sentiment-analysis.git
+git clone https://github.com/Roukaya-Lakhzouri/imdb-sentiment-analysis.git
 cd imdb-sentiment-analysis
 pip install -r requirements.txt
 
